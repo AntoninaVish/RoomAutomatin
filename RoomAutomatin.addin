@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RoomAutomatin.dll"</Assembly>
+		<AddInId>5345E541-1BF9-423E-A2E3-9BD78168FCAD</AddInId>
+		<FullClassName>RoomAutomatin.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>_номерЭтажа_номерПомещения</Text>
+	</AddIn>
+</RevitAddIns>
